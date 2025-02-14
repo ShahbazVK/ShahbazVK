@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazvk&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazvk" /> </p>
 
-- 🌱 I’m currently working with **React, Vue, Next.js, Nuxt.js, Node.js, Express.js**
+- 🌱 I’m currently working with **Spring Boot, React, Vue, Next.js, Nuxt.js, Node.js, Express.js**
 
 - 📫 How to reach me **shahbazali.netlify.app**
 
